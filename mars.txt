@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Cold and Dry, but everything is my favourit color
-
+add line to Mars
+=======
+We will need to manufacture our own oxygen
+This line added to Wolfman's copy
+>>>>>>> 3ba00795ea90931bd328c89ddbd2327510811774
